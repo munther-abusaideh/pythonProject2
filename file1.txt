@@ -1,0 +1,6 @@
+Most of this book uses high-level tools to read data files from disk into Python data structures.
+ However, 
+it's      important to understand the basics of how to work with files in Python.
+ Fortunately, 
+    it's very simple,
+ which is one reason why Python is so popular for text and file munging.
